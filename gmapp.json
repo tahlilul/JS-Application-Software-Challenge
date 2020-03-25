@@ -1,0 +1,17 @@
+{
+  "name":"Headlines",
+  "id":"95656165",
+  "template": "DriverFirst",
+  "theme" : {"primary": "red"},
+  "version": "0.0.0",
+  "src": "src",
+  "dist": "dist",
+  "main": "app.js",
+  "icon": "Icon.png",
+  "developer": "nabilsarder",
+  "category": "General",
+  "type": "RemoteHigh",
+  "description": "Generated on 3/21/2020, 10:54:50 PM by ngi-sdk version ",
+  "trusted": true,
+  "dffVersion": "1.6.0-alpha"
+}
