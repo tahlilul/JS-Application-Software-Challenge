@@ -33,10 +33,10 @@ ngi.flow('news', {
         layout: 'Vertical List',
         title: 'Top Headlines in the U.S. Today',
         links: {
-            detail: 'headline'
+            detail: 'headline' //Links list to detail view.
         }
     })
-
+    //Detail view uses TTS.
     .addRoute('headline', {
         layout: 'Detail',
         onEnter: function() {
